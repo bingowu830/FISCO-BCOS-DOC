@@ -42,7 +42,7 @@ sudo apt install -y curl openssl wget
 **安装centos依赖**
 
 ```shell
-sudo yum install -y curl openssl openssl-devel wget
+sudo yum install -y curl openssl openssl-devel wget bzip2
 ```
 
 ### 第二步. 创建操作目录，下载安装脚本
